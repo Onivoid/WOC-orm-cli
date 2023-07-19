@@ -1,0 +1,2 @@
+users(nom:string,prenom:string,age:int)
+information(email:string,phone_number:int,location:string,job:string,exp:int)
